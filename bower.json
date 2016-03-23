@@ -1,0 +1,21 @@
+{
+  "name": "register-bower-package",
+  "authors": [
+    "Jawwad Farooq <jawwad.farooq.shami@redmath.com>"
+  ],
+  "description": "Test package to retrieve it through Bower",
+  "main": "src/main.js",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
