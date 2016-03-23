@@ -1,7 +1,7 @@
 {
   "name": "register-bower-package",
   "authors": [
-    "Jawwad Farooq <jawwad.farooq.shami@redmath.com>"
+    "Jawwad Farooq"
   ],
   "description": "Test package to retrieve it through Bower",
   "main": "src/main.js",
