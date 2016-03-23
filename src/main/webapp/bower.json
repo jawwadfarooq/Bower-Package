@@ -4,7 +4,7 @@
     "Jawwad Farooq"
   ],
   "description": "Some widget",
-  "main": "src/main/webappjs/launcher.js",
+  "main": "js/launcher.js",
   "moduleType": [
     "node"
   ],
